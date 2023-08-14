@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Population EDA (1980-2050)
 
 Population EDA is an Exploratory Data Analysis (EDA) project that aims to examine and understand the patterns and characteristics present in a population.
